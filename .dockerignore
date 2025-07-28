@@ -1,8 +1,0 @@
-.venv
-.env*
-*.db
-.python-version
-.gitignore
-.git
-Dockerfile
-.dockerignore
